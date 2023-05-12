@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "channels": 2,
+        "created_at": "2023-05-12 10:12:38.423553",
+        "device": "cpu",
+        "model_version": "ASR_generic-english",
+        "request_id": "eea25609-11a7-4620-b97a-bd1c9b72af37",
+        "total_duration_sec": 114.4795,
+        "total_runtime_sec": 89.6779
+    },
+    "results": {
+        "transcription": {
+            "0": " Hello, good afternoon.  the next lecture.  Okay, so we can also collect details of the work done by the team.  Okay.  okay  Well, I hope you enjoyed this video. Please subscribe and like it.",
+            "1": " Huh? Huh?  Huh? I'm back over here.  Huh?  I will decide next year.  No, I don't know what you are saying.  Thank you."
+        }
+    }
+}
